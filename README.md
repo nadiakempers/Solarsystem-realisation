@@ -1,6 +1,6 @@
 # Solar System Realisation & Validation
 
-This repository contains code to generate a realistic solar system particle set using data from NASA/JPL, simulate it using the AMUSE framework, and compare positions and velocities against JPL's own ephemerides.
+This repository contains code to generate a realistic solar system particle set using data from NASA/JPL, simulate it using the **AMUSE framework**, and compare positions and velocities against JPL's own ephemerides.
 
 ## 🚀 Features
 
@@ -43,7 +43,7 @@ Run from terminal: by using the command-line inputs
 - `--add_comets_unn`: Include **unnumbered comets**.
 
 ```bash
-python main.py --date 2024-01-01 --limit 100 --add_planets --add_moons --add_asteroids_nr --add_asteroids_unn --add_comets_nr --add_comets_unn
+python main.py --date 01-01-2024 --limit 100 --add_planets --add_moons --add_asteroids_nr --add_asteroids_unn --add_comets_nr --add_comets_unn
 ```
 
 ## 📤 Output
