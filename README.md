@@ -70,4 +70,4 @@ You can use these outputs for analysis, debugging, or building further simulatio
 For questions, bug reports, or collaboration ideas, feel free to contact me via email or open an issue on this repository.
 
 **Author:** Nadia Kempers 
-**Email:** n.w.e.kempers@umail.leidenuniv.nl# Solarsystem-realisation
+**Email:** n.w.e.kempers@umail.leidenuniv.nl
