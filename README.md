@@ -35,7 +35,7 @@ Run from terminal: by using the command-line inputs
 
 - `--date`: Sets the target date for all orbital elements (format: `DD-MM-YYYY` depending on implementation).
 - `--limit`: Number of small bodies (asteroids/comets) to include per category.
-- `--add_planets`: Include all 8 planets incl pluto in the solar system.
+- `--add_planets`: Include all 8 planets and pluto in the solar system.
 - `--add_moons`: Include all moons (incl moons of pluto).
 - `--add_asteroids_nr`: Include **numbered asteroids** (with known orbits).
 - `--add_asteroids_unn`: Include **unnumbered asteroids** (less certain orbits).
